@@ -12,6 +12,7 @@ gem 'sass-rails',     '5.0.6'
 gem 'uglifier',       '3.2.0'
 gem 'turbolinks',     '5.0.1'
 gem 'jbuilder',       '2.6.4'
+gem 'jquery-rails',   '4.3.1'
 
 group :development, :test do
   gem 'rspec-rails',  '3.6.0'
