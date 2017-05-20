@@ -18,6 +18,7 @@ group :development, :test do
   gem 'rspec-rails',  '3.6.0'
   gem 'pry',          '0.10.4'
   gem 'pry-rails',    '0.3.6'
+  gem 'lograge',      '0.5.1'
 end
 
 group :development do
