@@ -16,6 +16,8 @@ gem 'jbuilder',       '2.6.4'
 
 group :development, :test do
   gem 'rspec-rails',  '3.6.0'
+  gem 'pry',          '0.10.4'
+  gem 'pry-rails',    '0.3.6'
 end
 
 group :development do
