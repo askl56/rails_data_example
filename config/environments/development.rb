@@ -60,8 +60,8 @@ Rails.application.configure do
     end
 
     {
-      :params => params,
-      :time   => event.time.xmlschema
+      params: params,
+      time: event.time.xmlschema
     }
   end
 end
